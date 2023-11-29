@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .btn{
+    @apply rounded-full py-2 px-3 uppercase text-xs font-bold cursor-pointer tracking-wider
+} */
+*{
+    font-family: 'popiens', sans-serif;
+}
+body{
+    background-color: #E6E6E6;
+}
